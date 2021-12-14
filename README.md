@@ -1,8 +1,5 @@
 # Software-Security
 
-Included is the pseudocode, run-time complexities, source code, and output for Project 2.
-Project 2 Description: Store data from a .csv file into a structure of choice, print all the data, and locate a passed value.
-
 **Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?**
   * Artemis Financial was a financial consulting company that delivered financial saving plans for savings, retirement, investments and insurance. Artemis Financial desiree to modernize its operations and had the software to thier public web interface. They wanted to adress the steps to protect their client data and financial information, the steps to add file verification to their web app, and wanted data verification in the form of a checksum when data is transfered. 
 
