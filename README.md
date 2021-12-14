@@ -19,4 +19,4 @@
   * I learned some about the Spring Framework and Tomcat server. I also learned a lot about web security and data encryption, although I still have a lot to learn. I learned how to suppress vulnerabilities in a dependency report and also how to use OWASP to identify vulnerabilities. I would find each of these resources, tools, or coding practices helpful in the future as I will continue to develop code with security in mind. 
 
 **Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?**
-  * See the attached project.
+  * See the attached reports.
